@@ -1,0 +1,6 @@
+{
+  "name": "TransLumina Global - Foreign Language Translation Services",
+  "description": "Premier foreign language translation agency in India providing human-certified legal, academic, medical, and corporate document translation across 50+ world languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
